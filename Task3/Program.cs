@@ -7,7 +7,7 @@
 */
 
 
-int[] GetArrayFrCons()
+int[] GetArrayFrCons() // Функция чтения цифр из консоли
 {
     Console.Write("Enter Size<8: ");
     int size = int.Parse(Console.ReadLine()!);
@@ -21,7 +21,7 @@ int[] GetArrayFrCons()
     return array;
 }
 
-int ConvertDigToInt(int[] array)
+int ConvertDigToInt(int[] array) // Функция изменения массива в цифру
 {
     int res = 0;
     for (int i = 0; i < array.Length; i++)
