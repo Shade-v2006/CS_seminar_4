@@ -80,7 +80,6 @@ int CountPrimeNumbers(int[] array) //  Функция для подсчета п
 
 
 int[] array = GetRandomArray(7, 1, 100); // Передача в функцию аргументов
-
 PrintArray(array); // Передача в функцию аргументов для печати
 
 int[] array2 = GetArrayFromConsole(); // Передача в массив аргументов введенных с клавиатуры
