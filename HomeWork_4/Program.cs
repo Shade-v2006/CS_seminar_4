@@ -10,12 +10,12 @@ int GetArrayFrCons() // Функция чтения цифр из консоли
     int size = int.Parse(Console.ReadLine()!);
     return size;
 }
-// void PrintArray(int digit) //  Функция для вывода текста на экран
-// {
-//     Console.Write("[ ");
-//     Console.Write(digit + " ");
-//     Console.WriteLine("]");
-// }
+void PrintArray(int digit) //  Функция для вывода текста на экран
+{
+    Console.Write("[ ");
+    Console.Write(digit + " ");
+    Console.WriteLine("]");
+}
 int ParityCheck(int size) // Функция изменения массива в цифру
 {
 
@@ -27,12 +27,6 @@ int ParityCheck(int size) // Функция изменения массива в
     return size;
 }
 
-int size = GetArrayFrCons();
-
-while (size > 0)
-{
-    GetArrayFrCons();
-}
 
 
 
