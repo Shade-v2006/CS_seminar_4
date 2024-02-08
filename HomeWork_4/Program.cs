@@ -18,23 +18,23 @@ int GetArrayFrCons() // Функция чтения цифр из консоли
 // }
 int ParityCheck(int size) // Функция изменения массива в цифру
 {
-
-    if (size % 2 == 0)
+    while (true)
     {
-        System.Console.WriteLine(size); ;
+        
+        //System.Console.WriteLine(size);
+        if (size % 2 == 0)
+        {
+            System.Console.WriteLine("Число чётно!");
+            break;
+        }
+        size = GetArrayFrCons();        
     }
-   
-    return size;
+    int num = 1;
+    return num;
 }
 
 int size = GetArrayFrCons();
+int num = ParityCheck(size);
 
-while (size > 0)
-{
-    GetArrayFrCons();
-}
-
-
-
-
+System.Console.WriteLine(num);
 //PrintArray(digit); // Передача в функцию аргументов для печати

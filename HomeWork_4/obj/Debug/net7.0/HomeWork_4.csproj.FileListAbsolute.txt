@@ -1,0 +1,15 @@
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\bin\Debug\net7.0\HomeWork_4.exe
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\bin\Debug\net7.0\HomeWork_4.deps.json
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\bin\Debug\net7.0\HomeWork_4.runtimeconfig.json
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\bin\Debug\net7.0\HomeWork_4.dll
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\bin\Debug\net7.0\HomeWork_4.pdb
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.AssemblyInfoInputs.cache
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.AssemblyInfo.cs
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.csproj.CoreCompileInputs.cache
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.sourcelink.json
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.dll
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\refint\HomeWork_4.dll
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.pdb
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.genruntimeconfig.cache
+C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\ref\HomeWork_4.dll
