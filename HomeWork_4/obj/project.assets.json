@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\shade\\.nuget\\packages\\": {}
+    "C:\\Users\\Naladka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shade\\Desktop\\CS\\CS_seminar_4\\HomeWork_4\\HomeWork_4.csproj",
+      "projectUniqueName": "F:\\VStudio_C#\\Lesson_4_seminarFunctions\\HomeWork_4\\HomeWork_4.csproj",
       "projectName": "HomeWork_4",
-      "projectPath": "C:\\Users\\shade\\Desktop\\CS\\CS_seminar_4\\HomeWork_4\\HomeWork_4.csproj",
-      "packagesPath": "C:\\Users\\shade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shade\\Desktop\\CS\\CS_seminar_4\\HomeWork_4\\obj\\",
+      "projectPath": "F:\\VStudio_C#\\Lesson_4_seminarFunctions\\HomeWork_4\\HomeWork_4.csproj",
+      "packagesPath": "C:\\Users\\Naladka\\.nuget\\packages\\",
+      "outputPath": "F:\\VStudio_C#\\Lesson_4_seminarFunctions\\HomeWork_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shade\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Naladka\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

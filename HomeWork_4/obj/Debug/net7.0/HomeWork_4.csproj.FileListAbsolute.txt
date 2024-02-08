@@ -13,3 +13,17 @@ C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\refint\HomeWo
 C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.pdb
 C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\HomeWork_4.genruntimeconfig.cache
 C:\Users\shade\Desktop\CS\CS_seminar_4\HomeWork_4\obj\Debug\net7.0\ref\HomeWork_4.dll
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\bin\Debug\net7.0\HomeWork_4.exe
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\bin\Debug\net7.0\HomeWork_4.deps.json
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\bin\Debug\net7.0\HomeWork_4.runtimeconfig.json
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\bin\Debug\net7.0\HomeWork_4.dll
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\bin\Debug\net7.0\HomeWork_4.pdb
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.GeneratedMSBuildEditorConfig.editorconfig
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.AssemblyInfoInputs.cache
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.AssemblyInfo.cs
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.csproj.CoreCompileInputs.cache
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.dll
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\refint\HomeWork_4.dll
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.pdb
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\HomeWork_4.genruntimeconfig.cache
+F:\VStudio_C#\Lesson_4_seminarFunctions\HomeWork_4\obj\Debug\net7.0\ref\HomeWork_4.dll
