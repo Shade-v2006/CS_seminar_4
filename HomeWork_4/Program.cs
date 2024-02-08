@@ -18,13 +18,19 @@ void PrintArray(int digit) //  Функция для вывода текста �
 }
 int ParityCheck(int size) // Функция изменения массива в цифру
 {
-
-    if (size % 2 == 0)
+    while (true)
     {
-        System.Console.WriteLine(size); ;
+        
+        //System.Console.WriteLine(size);
+        if (size % 2 == 0)
+        {
+            System.Console.WriteLine("Число чётно!");
+            break;
+        }
+        size = GetArrayFrCons();        
     }
-   
-    return size;
+    int num = 1;
+    return num;
 }
 
 
